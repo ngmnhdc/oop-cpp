@@ -1,0 +1,2 @@
+D:\Data\IT002 - Object Oriented Programming\Project\Struct\Debug\Struct.exe
+D:\Data\IT002 - Object Oriented Programming\Project\Struct\Debug\Struct.pdb

@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\Data\IT002 - Object Oriented Programming\Project\Struct\main.cpp(112,11): warning C4101: 'tmp': unreferenced local variable
+  Struct.vcxproj -> D:\Data\IT002 - Object Oriented Programming\Project\Struct\Debug\Struct.exe
