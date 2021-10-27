@@ -1,0 +1,2 @@
+D:\Data\IT002 - Object Oriented Programming\Project\StructPhanSo\Debug\StructPhanSo.exe
+D:\Data\IT002 - Object Oriented Programming\Project\StructPhanSo\Debug\StructPhanSo.pdb
