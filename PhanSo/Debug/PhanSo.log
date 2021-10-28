@@ -1,0 +1,8 @@
+﻿  PhanSo.cpp
+  main.cpp
+  Generating Code...
+PhanSo.obj : error LNK2005: "public: __thiscall PhanSo::PhanSo(int)" (??0PhanSo@@QAE@H@Z) already defined in main.obj
+PhanSo.obj : error LNK2005: "public: __thiscall PhanSo::PhanSo(int,int)" (??0PhanSo@@QAE@HH@Z) already defined in main.obj
+PhanSo.obj : error LNK2005: "public: __thiscall PhanSo::PhanSo(void)" (??0PhanSo@@QAE@XZ) already defined in main.obj
+main.obj : error LNK2019: unresolved external symbol "public: __thiscall PhanSo::~PhanSo(void)" (??1PhanSo@@QAE@XZ) referenced in function _main
+D:\Data\IT002 - Object Oriented Programming\Project\PhanSo\Debug\PhanSo.exe : fatal error LNK1120: 1 unresolved externals
