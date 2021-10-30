@@ -1,0 +1,2 @@
+D:\Data\IT002 - Object Oriented Programming\Project\TestCandidate\Debug\TestCandidate.exe
+D:\Data\IT002 - Object Oriented Programming\Project\TestCandidate\Debug\TestCandidate.pdb
