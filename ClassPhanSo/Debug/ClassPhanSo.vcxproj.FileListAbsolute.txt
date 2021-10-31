@@ -1,0 +1,2 @@
+D:\Data\IT002 - Object Oriented Programming\Project\ClassPhanSo\Debug\ClassPhanSo.exe
+D:\Data\IT002 - Object Oriented Programming\Project\ClassPhanSo\Debug\ClassPhanSo.pdb

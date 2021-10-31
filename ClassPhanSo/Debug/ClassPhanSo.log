@@ -1,0 +1,4 @@
+﻿  PhanSo.cpp
+D:\Data\IT002 - Object Oriented Programming\Project\ClassPhanSo\PhanSo.cpp(59,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Data\IT002 - Object Oriented Programming\Project\ClassPhanSo\PhanSo.cpp(59,14): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  ClassPhanSo.vcxproj -> D:\Data\IT002 - Object Oriented Programming\Project\ClassPhanSo\Debug\ClassPhanSo.exe
