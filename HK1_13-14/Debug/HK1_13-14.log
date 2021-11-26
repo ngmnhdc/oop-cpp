@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\Data\IT002 - Object Oriented Programming\Project\HK1_13-14\Source.cpp(6,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\Data\IT002 - Object Oriented Programming\Project\HK1_13-14\Source.cpp(14,20): warning C4018: '<': signed/unsigned mismatch
+  HK1_13-14.vcxproj -> D:\Data\IT002 - Object Oriented Programming\Project\HK1_13-14\Debug\HK1_13-14.exe
