@@ -1,7 +1,0 @@
-﻿  DanhSach.cpp
-D:\Data\IT002 - Object Oriented Programming\Project\HK3_15-16\DanhSach.cpp(40,20): warning C4018: '<': signed/unsigned mismatch
-D:\Data\IT002 - Object Oriented Programming\Project\HK3_15-16\DanhSach.cpp(47,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-D:\Data\IT002 - Object Oriented Programming\Project\HK3_15-16\DanhSach.cpp(48,20): warning C4018: '<': signed/unsigned mismatch
-D:\Data\IT002 - Object Oriented Programming\Project\HK3_15-16\DanhSach.cpp(50,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-D:\Data\IT002 - Object Oriented Programming\Project\HK3_15-16\DanhSach.cpp(52,20): warning C4018: '<': signed/unsigned mismatch
-  HK3_15-16.vcxproj -> D:\Data\IT002 - Object Oriented Programming\Project\HK3_15-16\Debug\HK3_15-16.exe
